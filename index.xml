@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Андрей Рублев</title>
+    <link>http://anru.me/</link>
+    <description>Recent content on Андрей Рублев</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 05 Nov 2017 20:04:50 +0200</lastBuildDate>
+    
+	<atom:link href="http://anru.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Кенигсберг. Город, которого больше нет.</title>
+      <link>http://anru.me/world/konigsberg/</link>
+      <pubDate>Sun, 05 Nov 2017 20:04:50 +0200</pubDate>
+      
+      <guid>http://anru.me/world/konigsberg/</guid>
+      <description>Отчасти пост возник из-за желания Варламова назвать город Кенигсбергом. Можете считать это развернутым ответом на эту тему. Или может из-за того что, переехав в Калининград, я таки купил себе первый фотоаппарат, которого у меня никогда не было, исключая отцовский советский ФЭД 5с, самый, наверное, красивый и функциональный фотоаппарат того времени. И надо же мне куда-то фотки выкладывать, в самом деле). И пока я писал пост, а получалось у меня это не быстро, приехал Вастрик и за считанные дни накатал прекраснейший пост про Калининград и область.</description>
+    </item>
+    
+  </channel>
+</rss>
